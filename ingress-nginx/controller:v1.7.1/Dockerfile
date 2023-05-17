@@ -1,0 +1,1 @@
+registry.k8s.io/ingress-nginx/controller-chroot:1.7.1@sha256:e35d5ab487861b9d419c570e3530589229224a0762c7b4d2e2222434abb8d988
